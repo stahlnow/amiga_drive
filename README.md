@@ -20,9 +20,8 @@
 | JP1                    | Amiga Floppy Power   | PINHD-1X4/90         | 1X04/90     | PIN HEADER                                       |
 | JP2                    | Amiga Internal Drive | PINHD-2X17           | 2X17        | PIN HEADER                                       |
 | JP3                    | Raspberry PI         | RPI_P1               | RPI_P1      | PIN HEADER                                       |
-|                        |                      |                      |             |                                                  |
-|                        |                      |                      |             |                                                  |
-|                        |                      |                      |             |                                                  |
-|                        |                      |                      |             |                                                  |
-|                        |                      |                      |             |                                                  |
-|                        |                      |                      |             |                                                  |
+
+![board](https://raw.githubusercontent.com/stahlnow/amiga_drive/master/doc/parts_placement_top.png "placement top")
+
+![board](https://raw.githubusercontent.com/stahlnow/amiga_drive/master/doc/parts_placement_bottom.png "placement bottom")
+

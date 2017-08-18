@@ -1,0 +1,5 @@
+gpu_mem_512=256
+gpu_mem_256=16
+arm_freq=800
+force_turbo=1
+
